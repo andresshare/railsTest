@@ -3,3 +3,4 @@ Rails.application.routes.draw do
   #get 'hola/:id'=> 'pages#hola'
  resources:users
 end
+ 
